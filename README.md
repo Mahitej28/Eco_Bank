@@ -1,7 +1,7 @@
 <h1>ECO BANK - <i> The Sparks Foundation, GRIP 2022 </i></h1>
 
 <br><br> ECO Bank is a basic banking system, designed as a part of internship under <b> TASK 1 </b> of<b> Web Development and Designing </b>, it is a dynamic website which consist of multiple users, allowed to perform transactions between them.
-<br><b>Flow of websit :</b> Home Page ➡ View Customer ➡ Select and View any customer ➡ Transfer Money ➡ Select customer to transfer money to ➡ View transactions
+<br><b>Flow of website :</b> Home Page ➡ View Customer ➡ Select and View any customer ➡ Transfer Money ➡ Select customer to transfer money to ➡ View transactions
 <br>
 
 ## 📓 Tools used
